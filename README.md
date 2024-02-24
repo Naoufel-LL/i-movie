@@ -1,7 +1,7 @@
 # I-Movie
 Built with React Native By Naoufel Bahassoune 👨‍💻 <br/>
 I-Movie is a mobile app for a cinema  where you can browse a lot of movies and book a movie to watch in the cinema <br/>
-You can browse by categorie of movies (Comedy/Adventure/Sport...)
+You can browse by categorie of movies (Comedy/Adventure/Sport...) <br/>
 A Ticket is generated automatically with a QRCODE <br/>
 If you connect with an admin account you can open your camera and scan the ticket if it is valid or not <br/>
 Clone the repo and type npm i to install all packages (firebase/react-qr/react-native.....) </br>
