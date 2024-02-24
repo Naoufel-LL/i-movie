@@ -7,6 +7,11 @@ If you connect with an admin account you can open your camera and scan the ticke
 Clone the repo and type npm i to install all packages (firebase/react-qr/react-native.....) </br>
 <div style="flex-direction:'row';grid-gap:30px;">
    <img
+      src="https://github.com/Naoufel-LL/i-movie/assets/68982694/76675161-73fe-43b4-b246-375c614f17b0"
+      alt="Alt text" width="200"
+      title="Start Screen"
+      style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
       src="https://github.com/Naoufel-LL/i-movie/assets/68982694/089277a9-76f7-4c79-9734-a71d21920500"
       alt="Alt text" width="200"
       title="Start Screen"
