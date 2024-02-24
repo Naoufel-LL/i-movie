@@ -23,13 +23,13 @@ import { View, Image, StyleSheet, TouchableOpacity, Text } from 'react-native';
       />
       <Text style={styles.text}>Find and Book your {'\n'} <Text style={styles.f}>favorite movie</Text></Text>
       <TouchableOpacity
-        style={[styles.buttonContainer, { bottom: 120 }]}
+        style={[styles.buttonContainer, { bottom: 200 }]}
         onPress={handleNavigateLogin}
       >
         <Text style={styles.buttonText}>Login</Text>
       </TouchableOpacity>
       <TouchableOpacity
-        style={[styles.buttonContainer, { bottom: 60 }]}
+        style={[styles.buttonContainer, { bottom: 120 }]}
         onPress={handleNavigateRegister}
       >
         <Text style={styles.buttonText}>Register</Text>
@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   },
   text:{
     color:'#fff',
-    paddingTop:120,
+    paddingTop:100,
     fontSize:30,
     fontWeight:'bold',
     textAlign: 'center',

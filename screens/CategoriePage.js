@@ -10,6 +10,10 @@ const CategoriePage = ({navigation,route}) => {
     const [search,SetSearch] = useState('')
     const categorie = route.params.categorie
     navigation.setOptions({ title: categorie})
+    navigation.setOptions({
+      headerShown: true,
+      headerTransparent: true,
+    });
     useLayoutEffect(()=>{
         const list = []
         console.log("clear")
@@ -51,7 +55,7 @@ const CategoriePage = ({navigation,route}) => {
       })
         return (   
           <View style={styles.container}>        
-            <ScrollView style={{marginVertical:40}}>
+            <ScrollView style={{marginVertical:100}}>
               <View style={{justifyContent:'center',alignItems:'center'}}>
               <TextInput
         value={search}
