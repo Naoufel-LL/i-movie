@@ -16,16 +16,17 @@ Clone the repo and type npm i to install all packages (firebase/react-qr/react-n
       alt="Alt text" width="200"
       title="Start Screen"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
+     <img
+      src="https://github.com/Naoufel-LL/i-movie/assets/68982694/8274e474-ecd7-4e1c-9604-5a13a99ad19a"
+      alt="Alt text" width="200"
+      title="Start Screen"
+      style="display: inline-block; margin: 0 auto; max-width: 300px">
   <img
       src="https://github.com/Naoufel-LL/i-movie/assets/68982694/7b56f7e0-8df6-4f82-a4b6-2014cc049b00"
       alt="Alt text" width="200"
       title="Start Screen"
       style="display: inline-block; margin: 0 auto; max-width: 300px">
-  <img
-      src="https://github.com/Naoufel-LL/i-movie/assets/68982694/8274e474-ecd7-4e1c-9604-5a13a99ad19a"
-      alt="Alt text" width="200"
-      title="Start Screen"
-      style="display: inline-block; margin: 0 auto; max-width: 300px">
+
   <img
       src="https://github.com/Naoufel-LL/i-movie/assets/68982694/50e9b2b0-686d-4bc4-a5dd-77b3fe9f9c58"
       alt="Alt text" width="200"
